@@ -9,3 +9,14 @@ C:\Users\jmdal\Projects\CST150\Act2\bin\Debug\Act2.exe
 C:\Users\jmdal\Projects\CST150\Act2\bin\Debug\Act2.pdb
 C:\Users\jmdal\Projects\CST150\Act2\obj\Debug\Act2.exe
 C:\Users\jmdal\Projects\CST150\Act2\obj\Debug\Act2.pdb
+C:\Users\jmdal\Projects\CST150\Topic3\Act6\bin\Debug\Act2.exe.config
+C:\Users\jmdal\Projects\CST150\Topic3\Act6\bin\Debug\Act2.exe
+C:\Users\jmdal\Projects\CST150\Topic3\Act6\bin\Debug\Act2.pdb
+C:\Users\jmdal\Projects\CST150\Topic3\Act6\obj\Debug\Act2.csproj.AssemblyReference.cache
+C:\Users\jmdal\Projects\CST150\Topic3\Act6\obj\Debug\Act2.csproj.SuggestedBindingRedirects.cache
+C:\Users\jmdal\Projects\CST150\Topic3\Act6\obj\Debug\Act2.InToCm.resources
+C:\Users\jmdal\Projects\CST150\Topic3\Act6\obj\Debug\Act2.Properties.Resources.resources
+C:\Users\jmdal\Projects\CST150\Topic3\Act6\obj\Debug\Act2.csproj.GenerateResource.cache
+C:\Users\jmdal\Projects\CST150\Topic3\Act6\obj\Debug\Act2.csproj.CoreCompileInputs.cache
+C:\Users\jmdal\Projects\CST150\Topic3\Act6\obj\Debug\Act2.exe
+C:\Users\jmdal\Projects\CST150\Topic3\Act6\obj\Debug\Act2.pdb
